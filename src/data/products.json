@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Arroz",
+    "description": "Alimentos",
+    "code": "abdas",
+    "price": "1100",
+    "status": true,
+    "stock": "40",
+    "category": "Almacen"
+  },
+  {
+    "id": 2,
+    "title": "Fideos",
+    "description": "Alimentos",
+    "code": "abdas",
+    "price": "1700",
+    "status": true,
+    "stock": "10",
+    "category": "Almacen"
+  },
+  {
+    "id": 3,
+    "title": "Agua",
+    "description": "Bebida",
+    "code": "abdas",
+    "price": "1100",
+    "status": true,
+    "stock": "40",
+    "category": "Alimentos"
+  }
+]
